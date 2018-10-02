@@ -1,0 +1,11 @@
+
+.calculator {
+  &-box {
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    rotate: {
+      deg: 0.2
+    }
+  }
+}
